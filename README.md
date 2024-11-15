@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Eduardocin
-- 👀 I’m interested in AI for health aplications
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Machine learning applications
 
 <!---
 Eduardocin/Eduardocin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
