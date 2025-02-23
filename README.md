@@ -11,15 +11,15 @@ Atualmente, estou mergulhando em projetos que combinam análise de dados e model
 
 
 ### Habilidades
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### Entre em Contato
-- 📩 [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
-- 💼 [LinkedIn](link-do-seu-linkedin)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-henrique-a71782338/)  
 
 ---
 ⭐ Gostou do meu perfil? Dê uma estrela nos meus repositórios e vamos aprender juntos!
