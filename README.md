@@ -6,7 +6,8 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 
 Currently, I'm diving into projects that combine data analysis and predictive models.  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardocin&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardocin&show_icons=true&layout=compact&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardocin&layout=compact&theme=merko)  
 
 
 ### About Me  
@@ -15,11 +16,10 @@ Currently, I'm diving into projects that combine data analysis and predictive mo
 - 🎯 My goal is to create AI solutions that positively impact the world.  
 
 ### 🛠️ Skills  
-- 💻 **Programming**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-- 📊 **Data Science**: ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-- 📈 **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)  
-- 🤖 **AI & Deep Learning**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-
+- 💻 **Programming**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=20)  
+- 📊 **Data Science**: ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=20) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=20) ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&logoWidth=20)  
+- 📈 **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white&logoWidth=20) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20)  
+- 🤖 **AI & Deep Learning**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&logoWidth=20) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white&logoWidth=20)
 
 ### Contact Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-henrique-a71782338/)  
