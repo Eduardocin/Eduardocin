@@ -14,11 +14,22 @@ Currently, I'm diving into projects that combine data analysis and predictive mo
 - 🔍 Passionate about **Machine Learning** and **Data Visualization**.  
 - 🎯 My goal is to create AI solutions that positively impact the world.  
 
-### Skills  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+### 🛠️ Skills  
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"></td>
+    <td><img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"></td>
+  </tr>
+</table>
+
 
 ### Contact Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-henrique-a71782338/)  
