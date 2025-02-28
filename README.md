@@ -7,6 +7,8 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 Currently, I'm diving into projects that combine data analysis and predictive models.  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardocin&layout=compact&theme=merko)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Eduardocin&show_icons=true&theme=merko)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardocin&theme=merko)
 
 
 ### About Me  
@@ -20,7 +22,8 @@ Currently, I'm diving into projects that combine data analysis and predictive mo
 - 📈 **Data Visualization**: ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white&logoWidth=20) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20)  
 - 🤖 **AI & Deep Learning**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&logoWidth=20) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white&logoWidth=20)
 
-### Contact Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-henrique-a71782338/)  
+### Contact Me  💼
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-henrique-a71782338/)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosantana.tech@gmail.com)
 
 ---
