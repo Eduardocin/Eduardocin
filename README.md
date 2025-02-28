@@ -6,7 +6,7 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 
 Currently, I'm diving into projects that combine data analysis and predictive models.  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardocin&layout=compact&langs_count=3&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dracula)
 
 
 ### About Me  
