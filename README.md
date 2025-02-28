@@ -1,5 +1,3 @@
-Here’s your translated profile in English:  
-
 ---
 
 # Hello! I'm Eduardo 👋  
@@ -7,6 +5,9 @@ Here’s your translated profile in English:
 I'm a Computer Science student at **UFPE** (one of the top technology institutions in Brazil!) and an **Artificial Intelligence** enthusiast. I love exploring how data can tell stories and solve real-world problems, especially through **Machine Learning** and **Data Visualization**.  
 
 Currently, I'm diving into projects that combine data analysis and predictive models.  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Eduardocin=Eduardocin&layout=compact&langs_count=3&theme=dracula)
+
 
 ### About Me  
 - 🌱 Student at **Universidade Federal de Pernambuco (UFPE)**.  
