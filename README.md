@@ -20,7 +20,7 @@ Currently, I'm diving into projects that combine data analysis and predictive mo
 - 🤖 **AI & Deep Learning**: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&logoWidth=20) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white&logoWidth=20)
 
 ### Contact Me  💼
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-henrique-a71782338/)
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosantana.tech@gmail.com)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/eduardo-henrique-a71782338/)
+- ![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)(mailto:eduardosantana.tech@gmail.com)
 
 ---
