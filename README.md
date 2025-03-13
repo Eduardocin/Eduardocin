@@ -6,7 +6,6 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 
 Currently, I'm diving into projects that combine data analysis and predictive models.  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eduardocin&theme=merko)
 
 ### About Me  
 - 🌱 Student at **Universidade Federal de Pernambuco (UFPE)**.  
