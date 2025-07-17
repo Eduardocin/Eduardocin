@@ -27,7 +27,7 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
     <td width="50%">
       <h3 align="center">FlashLearn - AI Flashcards</h3>
       <p align="center">
-        Uma aplicação que gera flashcards de estudo automaticamente a partir de arquivos enviados pelo usuário, utilizando a API da OpenAI para otimizar o aprendizado.
+        An application that automatically generates study flashcards from user-uploaded files, using the OpenAI API to optimize learning.
         <br/><br/>
         <a href="https://github.com/Eduardocin/FlashLearn">🔗 Repository</a>
       </p>
@@ -41,7 +41,7 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
     <td width="50%">
       <h3 align="center">Smart Traffic Vehicle Counter</h3>
       <p align="center">
-        Sistema de visão computacional que conta e rastreia veículos com YOLO e ByteTrack. Analisa o estado do semáforo para detectar infrações de sinal vermelho com precisão.
+        A computer vision system that counts and tracks vehicles using YOLO and ByteTrack. It analyzes traffic light status to accurately detect red-light violations.
         <br/><br/>
         <a href="https://github.com/Eduardocin/Smart-Traffic-Vehicle-Counter">🔗 Repository</a>
       </p>
