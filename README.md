@@ -13,8 +13,9 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 <br>
 
 <div align="center">
+  <h3 align="center">Tecnologias Mais Utilizadas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,tensorflow,pytorch,scikitlearn,pandas,numpy,postgres,git,docker,linux&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,scikitlearn,pandas,numpy,git,docker" />
   </a>
 </div>
 
