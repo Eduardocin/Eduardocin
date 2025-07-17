@@ -1,5 +1,8 @@
 ---
-
+<p align="center">
+  <img src="URL_DA_SUA_IMAGEM_OU_GIF_AQUI" alt="Banner do Perfil de Eduardo" width="800"/>
+</p>
+...
 # Hello! I'm Eduardo 👋  
 
 I'm a Computer Science student at **UFPE** (one of the top technology institutions in Brazil!) and an **Artificial Intelligence** enthusiast. I love exploring how data can tell stories and solve real-world problems, especially through **Machine Learning** and **Data Visualization**.  
