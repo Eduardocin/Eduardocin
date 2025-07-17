@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="600">
+  <img src="https://www.tramaweb.com.br/wp-content/uploads/2019/10/f6719fd6-tenor.gif" width="300">
 </p>
 
 # Hello! I'm Eduardo 👋
@@ -24,13 +24,11 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Your Project Name 1</h3>
+      <h3 align="center">Brain Tumor Segmentation (U-Net)</h3>
       <p align="center">
-        A brief description of your project. Talk about its purpose and what problem it solves.
+        A deep learning model using the U-Net architecture to perform semantic segmentation of brain tumors in medical images.
         <br/><br/>
-        <a href="REPOSITORY_URL">🔗 Repository</a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="LIVE_DEMO_URL">🚀 Live Demo</a>
+        <a href="https://github.com/Eduardocin/BrainTumor_UNet_Segmentation">🔗 Repository</a>
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -38,17 +36,14 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Your Project Name 2</h3>
+      <h3 align="center">C++ Parsing Tree</h3>
       <p align="center">
-        A brief description of your second project. Highlight an interesting challenge you solved.
+        A complete implementation of a parsing tree in C++, demonstrating core data structure and algorithm concepts.
         <br/><br/>
-        <a href="REPOSITORY_URL">🔗 Repository</a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="LIVE_DEMO_URL">🚀 Live Demo</a>
+        <a href="https://github.com/Eduardocin/parsing-tree-cpp-">🔗 Repository</a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
       </p>
     </td>
   </tr>
