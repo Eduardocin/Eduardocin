@@ -1,7 +1,3 @@
----
-<p align="center">
-  <img src="URL_DA_SUA_IMAGEM_OU_GIF_AQUI" alt="Banner do Perfil de Eduardo" width="800"/>
-</p>
 ...
 # Hello! I'm Eduardo 👋  
 
@@ -9,6 +5,11 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 
 Currently, I'm diving into projects that combine data analysis and predictive models.  
 
+<div align="center">
+  <a href="https://github.com/SEU-USERNAME-AQUI">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### About Me  
 - 🌱 Student at **Universidade Federal de Pernambuco (UFPE)**.  
