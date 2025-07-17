@@ -15,7 +15,7 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 <div align="center">
   <h3 align="center">Tecnologias Mais Utilizadas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,scikitlearn,pandas,numpy,git,docker&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,scikitlearn,git,docker&perline=6" />
   </a>
 </div>
 
@@ -23,6 +23,34 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 
 ### 🚀 Featured Projects
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">FlashLearn - AI Flashcards</h3>
+      <p align="center">
+        Uma aplicação que gera flashcards de estudo automaticamente a partir de arquivos enviados pelo usuário, utilizando a API da OpenAI para otimizar o aprendizado.
+        <br/><br/>
+        <a href="https://github.com/Eduardocin/FlashLearn">🔗 Repository</a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Smart Traffic Vehicle Counter</h3>
+      <p align="center">
+        Sistema de visão computacional que conta e rastreia veículos com YOLO e ByteTrack. Analisa o estado do semáforo para detectar infrações de sinal vermelho com precisão.
+        <br/><br/>
+        <a href="https://github.com/Eduardocin/Smart-Traffic-Vehicle-Counter">🔗 Repository</a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YOLO-%230000FF.svg?style=flat&logo=yolo&logoColor=white" />
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">Brain Tumor Segmentation (U-Net)</h3>
@@ -33,7 +61,9 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
       </p>
     </td>
     <td width="50%">
