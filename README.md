@@ -49,29 +49,97 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
   </tr>
 </table>
 
-<br>
+### 🛠️ Skills & Tools
 
-### 🛠️ Skills
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#-programming">
+        <img src="https://www.svgrepo.com/show/349429/programming.svg" width="48" height="48" alt="Programming" />
+      </a>
+      <br>Linguagens
+    </td>
+    <td align="center" width="96">
+      <a href="#-data-science--ml">
+        <img src="https://www.svgrepo.com/show/452192/database.svg" width="48" height="48" alt="Data Science" />
+      </a>
+      <br>Data Science
+    </td>
+    <td align="center" width="96">
+      <a href="#-data-visualization">
+        <img src="https://www.svgrepo.com/show/448234/chart-analysis.svg" width="48" height="48" alt="Data Visualization" />
+      </a>
+      <br>Visualização
+    </td>
+     <td align="center" width="96">
+      <a href="#-ai--deep-learning">
+        <img src="https://www.svgrepo.com/show/494451/brain-circuit.svg" width="48" height="48" alt="Deep Learning" />
+      </a>
+      <br>Deep Learning
+    </td>
+  </tr>
+</table>
 
-- 💻 **Programming**: 
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20) 
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=20) 
-  ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white&logoWidth=20)
- 
-- 📊 **Data Science**: 
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=20) 
-  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=20) 
-  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&logoWidth=20)  
-
-- 📈 **Data Visualization**: 
-  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white&logoWidth=20) 
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20)  
-
-- 🤖 **AI & Deep Learning**: 
-  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&logoWidth=20) 
-  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&logoWidth=20)
-
-<br>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://www.python.org" target="_blank"> 
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://pandas.pydata.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://matplotlib.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white">
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://www.tensorflow.org" target="_blank">
+        <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://numpy.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://seaborn.pydata.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white">
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://www.postgresql.org" target="_blank">
+        <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+      </a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://scikit-learn.org/" target="_blank">
+        <img src="https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+      </a>
+    </td>
+    <td align="center" valign="top"></td>
+    <td align="center" valign="top"></td>
+  </tr>
+</table>
 
 ### 📫 Contact Me
 
