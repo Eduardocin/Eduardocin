@@ -15,7 +15,7 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
 <div align="center">
   <h3 align="center">Tecnologias Mais Utilizadas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,scikitlearn,pandas,numpy,git,docker" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,scikitlearn,pandas,numpy,git,docker&perline=8" />
   </a>
 </div>
 
@@ -58,15 +58,15 @@ I'm a Computer Science student at **UFPE** (one of the top technology institutio
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20) 
   ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white&logoWidth=20) 
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white&logoWidth=20)
- 
+ 
 - 📊 **Data Science**: 
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white&logoWidth=20) 
   ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white&logoWidth=20) 
-  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&logoWidth=20)  
+  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white&logoWidth=20)  
 
 - 📈 **Data Visualization**: 
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white&logoWidth=20) 
-  ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20)  
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&logoWidth=20)  
 
 - 🤖 **AI & Deep Learning**: 
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&logoWidth=20) 
